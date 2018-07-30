@@ -1,0 +1,9 @@
+{
+  "Source": "victor.dey@jetblue.com",
+  "Template": "Preferences3",
+   "Destination": {
+    "ToAddresses": [ "victor.dey@jetblue.com"
+    ]
+  },
+  "TemplateData": "{ \"name\":\"Alejandro\", \"favoriteanimal\": \"alligator\" }"
+}
